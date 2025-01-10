@@ -1,6 +1,6 @@
 {application, kflow,
  [ {description, "Fault-tolerant dataflow DSL"}
- , {vsn, "git"}
+ , {vsn, "1.1.1"}
  , {registered, [kflow_sup2, kflow_pipe_sup]}
  , {applications, [kernel, stdlib, compiler, supervisor3, brod, prometheus, cowboy,
                    jsone, bbmustache]}
