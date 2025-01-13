@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.2] - 2025-01-13
+
+### Added
+- Added supervisor3 dependency
+
 ## [1.1.1] - 2025-01-10
 
 ### Changed
